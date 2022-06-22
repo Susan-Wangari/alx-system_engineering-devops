@@ -1,1 +1,2 @@
-#!/bin/bash \necho ls-l
+#!/bin/bash
+ls-l
