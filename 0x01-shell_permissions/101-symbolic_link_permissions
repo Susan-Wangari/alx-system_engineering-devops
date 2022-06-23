@@ -1,2 +1,2 @@
 #!/bin/bash
-chown ln -s vincent:staff _hello
+chown ln vincent:staff _hello
